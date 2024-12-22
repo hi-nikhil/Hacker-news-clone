@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Build output
+/build/
+dist/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+/.pnp/
+/.pnp.js
+
+# Environment variables
+.env
+.env.*.local
+
+# IDE and Editor settings
+.vscode/
+.idea/
+
+# Coverage directory used by tools like Jest
+/coverage/
+
+# Build artifacts
+*.tgz
+
+# Optional npm cache directory
+.npm/
+
+# Yarn lock file, if using Yarn
+yarn.lock
+
+
+# Testing configuration files (e.g., Jest or Cypress)
+cypress/screenshots/
+/cypress/videos/

@@ -1,0 +1,35 @@
+.job {
+  display: flex;
+  padding-top: 10px;
+}
+
+.job-index-container {
+  display: flex;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.job-index {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 13px;
+  color: #828282;
+}
+
+.job-host-name {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10px;
+  color: #828282;
+  cursor: pointer;
+}
+
+.job-title {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 13px;
+}
+
+.job-metadata {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10px;
+  padding-top: 3px;
+  color: #828282;
+}

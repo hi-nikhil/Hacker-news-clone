@@ -1,0 +1,56 @@
+.story {
+  display: flex;
+  padding-top: 10px;
+}
+
+.story-index-and-vote {
+  display: flex;
+  justify-content: end;
+  padding-left: 10px;
+}
+
+.story-index {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 13px;
+  color: #828282;
+}
+
+.story-vote {
+  margin-top: 2px;
+  width: 10px;
+  height: 10px;
+  background-size: 10px;
+  background-image: url("https://news.ycombinator.com/triangle.svg"), linear-gradient(transparent, transparent);
+}
+
+.story-host-name {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10px;
+  color: #828282;
+  cursor: pointer;
+}
+
+.story-details {
+  padding-left: 5px;
+}
+
+.story-title {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 13px;
+}
+
+.story-metadata {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10px;
+  padding-top: 3px;
+  color: #828282;
+}
+
+a:link {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:visited {
+  color: #828282;
+}

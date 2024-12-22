@@ -1,0 +1,16 @@
+.storyList-container {
+  background-color: #f6f6ef;
+  min-height: "100vh";
+  padding-bottom: "20px";
+  position: relative;
+}
+
+.job-story-heading-container {
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  height: 40px;
+  color: #828282;
+  font-size: 13px;
+  font-family: Verdana, Geneva, sans-serif;
+}
